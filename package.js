@@ -13,4 +13,4 @@ Package.onUse(function(api) {
   api.export( 'Harvest' );
 });
 
-Npm.depends({harvest: '0.1.0'});
+Npm.depends({harvest: '0.1.4'});
